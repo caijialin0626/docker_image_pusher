@@ -1,1 +1,1 @@
-redis:alpine
+node:22-alpine
