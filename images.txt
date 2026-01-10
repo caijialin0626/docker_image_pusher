@@ -1,1 +1,2 @@
-nginx:stable-alpine
+nginxproxy/nginx-proxy
+nginxproxy/acme-companion
