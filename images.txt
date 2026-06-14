@@ -2,3 +2,4 @@ python:3.12
 node:20-alpine
 node:22-alpine
 nginx:alpine
+mysql:8.4
